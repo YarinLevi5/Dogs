@@ -1,0 +1,23 @@
+body {
+    background-color: darkgrey;
+}
+
+.root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 550px;
+}
+
+h1 {
+    font-size: 50px;
+    color: darkmagenta;
+}
+
+.none {
+    display: none;
+}
+
+#dogImg {
+    height: 300px;
+}
